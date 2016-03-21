@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #3987c9;
+}
+
+path {
+  stroke: rgba(0,0,0,.4);
+  stroke-width: 0.25px;
+  fill: #fff;
+}
+
+text.item {
+  font-family: 'helvetica';
+}
+
+.navbar-fixed-top {
+  opacity: .9;
+}
+
+.badge-open { background-color: #01ABEE; }
+.badge-click { background-color: #00A650; }
+.badge-proxy { background-color: #DF4428; }
+
+.navbar-inverse .navbar-nav>li>a { color: #fff; }
+          
